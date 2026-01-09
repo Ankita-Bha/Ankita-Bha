@@ -1,39 +1,19 @@
 ## 👋 Hi, I’m Ankita
 
-Final-year **Data Analyst / Software-oriented graduate** focused on building **practical, working systems** rather than surface-level demos.  
-I value clarity, automation, and clean execution.
+Final-year **Data Analyst / Software-focused graduate** building practical systems with clean execution.
 
-## 🔭 Currently Working On
+## 🔭 Current Focus
+- Data analytics (EDA, cleaning, insights)
+- Automation for real workflows
+- Docker-based dev environments
 
-- 📊 **Data analytics projects** (EDA, data cleaning, insights, reporting)
-- ⚙️ **Automation workflows** for real-world problems
-- 🐳 **Docker-based development environments** for reproducibility
-- 🚀 Strengthening core fundamentals through consistent project execution
+## 🧰 Tech Stack
+**Python · SQL · Java**  
+Pandas · NumPy · Matplotlib · Seaborn · Tensorflow
+n8n · Docker · Git 
 
-## 🧰 Tools & Technologies
+## 📌 What’s Here
+Analytics projects • Automation tools • Clean, documented code
 
-**Languages**
-- 🐍 Python  
-- 🧮 SQL  
-- ☕ Java (core logic & fundamentals)
-
-**Data & Analytics**
-- Pandas, NumPy  
-- Matplotlib, Seaborn  
-- Exploratory Data Analysis (EDA)
-
-**Automation & Development**
-- n8n (workflow automation)  
-- Docker, Docker Compose  
-- Git & GitHub
-
-## 📌 What You’ll Find Here
-
-- ✅ End-to-end analytics projects with clear problem statements
-- ✅ Automation systems built for daily usability
-- ✅ Clean repositories with readable, maintainable code
-
-## 📫 Reach Me
-
-- 💼 LinkedIn: *(add link)*  
-- 📧 Email: *(add email)*  
+## 📫 Contact
+LinkedIn: *https://www.linkedin.com/in/ankita-bhamidimarri/* · Email: *ankitabhamidimarri21804@gmail.com*
