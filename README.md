@@ -1,19 +1,22 @@
-## 👋 Hi, I’m Ankita
+# Hey, I'm Ankita 👋
 
-Final-year **Data Analyst / Software-focused graduate** building practical systems with clean execution.
+Applied AI & LLM Systems intern figuring out how to make machines 
+actually useful — one pipeline at a time.
 
-## 🔭 Current Focus
-- Data analytics (EDA, cleaning, insights)
-- Automation for real workflows
-- Docker-based dev environments
+## what I'm working on
+- Building SNI layer architecture for LLM pipelines
+- Synthesizing AI research into working systems
+- Docker-based dev environments that don't break at 2am
 
-## 🧰 Tech Stack
-**Python · SQL · Java**  
-Pandas · NumPy · Matplotlib · Seaborn · Tensorflow
-n8n · Docker · Git 
+## tech stack
+**Python · SQL · Java**
+Pandas · NumPy · Matplotlib · Seaborn · TensorFlow
+n8n · Docker · Git · Jupyter
 
-## 📌 What’s Here
-Analytics projects • Automation tools • Clean, documented code
+## what's here
+AI/ML experiments · LLM pipeline work · analytics projects · 
+clean documented code
 
-## 📫 Contact
-LinkedIn: *https://www.linkedin.com/in/ankita-bhamidimarri/* · Email: *ankitabhamidimarri21804@gmail.com*
+## find me
+[LinkedIn](https://www.linkedin.com/in/ankita-bhamidimarri/) · 
+ankitabhamidimarri21804@gmail.com
